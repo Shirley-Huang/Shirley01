@@ -1,0 +1,13 @@
+.jshintrc
+target
+bin
+.classpath
+.project
+.settings
+*.iml
+.idea
+.mymetadata
+.metadata
+RemoteSystemsTempFiles
+*.log
+.DS_Store
